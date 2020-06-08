@@ -1,0 +1,34 @@
+:root {
+--title-color: #322153;
+--primary-color: #34cb79;
+--background-color:  #dfdddd;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+html {
+    font-family: 'Fredoka One', cursive;
+}
+
+body {
+    background: #9381b8a9;
+    
+}
+a {
+   
+    font-family:'Righteous', cursive;
+    text-decoration: none
+}
+p {
+    font-family: 'Varela Round', sans-serif;
+    font-weight: 700;
+}
+button {
+    font-family: 'Righteous', cursive;
+}
+
